@@ -1,0 +1,113 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Georgia, Lucida Sans, Trebuchet MS;
+    background-color: #d59bf6;
+}
+.division{
+    padding:1%;
+    width:80%;
+    margin:0 auto;
+}
+h1{
+    position: relative;
+}
+.menu{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding:1%;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:#344648;
+}
+.text_center{
+    text-align: center;
+}
+.content{
+    margin: 1% 0;
+    color:white;
+    padding:3% 0;
+}
+.box{
+    width:12%;
+    background-color: white;
+    color:black;
+    padding:2%;
+    margin:1%;
+    float:left;
+}
+.clearfix{
+    float:none;
+    clear:both;
+}
+.footer{
+    color:white;
+}
+.tab{
+    width:100%;
+}
+.tab2{
+    width:30%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding:1%;
+    text-align: left;
+}
+table tr td{
+    padding:1%;
+}
+.button3{
+    background-color: #394a51;
+    color:white; 
+    padding:0.5%;
+    text-decoration: none;
+    font-weight:bold; 
+}
+.button3:hover{
+    color:#feffdf; 
+}
+.button4{
+    background-color: #394a51;
+    color:white; 
+    padding:1%;
+    text-decoration: none;
+    font-weight:bold;
+} 
+.button4:hover{
+    color:#feffdf;
+}
+.button5{
+    background-color: #ff7e67;
+    color:white; 
+    padding:1%;
+    text-decoration: none;
+    font-weight:bold;
+}
+.button5:hover{
+    color:purple; 
+}
+.success{
+color : blue;   
+}
+.error{
+    color:black;
+}
+.login{
+    width:20%;
+    margin:10% auto;
+    padding:2%;    
+}
+.success1{
+    color:black;
+}

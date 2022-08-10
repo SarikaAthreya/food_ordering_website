@@ -1,0 +1,168 @@
+.division{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Georgia, Lucida Sans, Trebuchet MS;
+}
+.logo{
+    width: 13%;
+    float: left;
+}
+.img_response{
+    width:100%;
+    padding: 0 0;
+}
+.menu{
+    line-height: 120px;
+}
+.text_right{
+    text-align: right;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:#344648;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+.browse{
+    background-image: url("images/background2.jpg");
+    background-size: 500px;
+    background-position: left;
+    padding:7%;
+}
+.purple{
+    background-image: url("images/purple_order_bg.png");
+    background-size: 500px;
+    background-position: left;
+    padding:7%;
+}
+.text-center{
+    text-align: center;
+}
+.browse input[type="search"]{
+    width:50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+}
+.button1{
+    padding:1%;
+    border: none;
+    font-size:1rem;
+    border-radius:5px;
+}
+.button2{
+    background-color: #344648;
+    color: white;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: #344648;
+    color:white;
+}
+h2{
+    color:#344648;
+    font-size:1.5rem;
+    margin-bottom: 2%;
+}
+h3{
+    font-size:1.5rem;
+}
+#category{
+    padding:4% 0;
+}
+.box{
+    width: 19%;
+    float: left;
+    margin: 1%;
+}
+.float_division{
+    position: relative;
+    left:68px;
+}
+.float_text{
+    position: absolute;
+    bottom: 20px;
+    left: 28%;
+}
+.text_white{
+    color:white;
+}
+.food_menu{
+  background-color: #ececec;
+  padding:4% 0;
+}
+.fmenu{
+  width: 43%;
+  margin:1%;
+  padding:2%;
+  float:left;
+  background-color: white;
+  border-radius: 15px;
+}
+.fmenu_img{
+    width:20%;
+    float:left;
+}
+.fmenu_desc{
+    width:70%;
+    float:left;
+    margin-left:8%;
+}
+.price{
+    font-size:1.2rem;
+    margin:2% 0;
+}
+.desc{
+    font-size:1rem;
+    color:grey;
+}
+.img_curve{
+    border-radius:10px;
+}
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+.order{
+    width: 50%;
+    margin: 0 auto;
+}
+.input_response{
+    width: 98%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order_label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+
